@@ -1,9 +1,7 @@
-function App() {
+export default function App() {
   return (
     <div>
       react
     </div>
-  );
+  )
 }
-
-export default App;
